@@ -27,12 +27,12 @@ if(isset($_POST['submit'])){
 
 <header>
     <div class="navbar">
-        <a href="http://localhost:63342/SportschoolBenno/Home.html?_ijt=41d0ins4s7s1ggohc6f7h1d4">Home</a>
-        <a href="http://localhost:63342/SportschoolBenno/Sportinzage.html?_ijt=p66km7vg5rb0k7r6crgmohm39c"> Sportinzage</a>
-        <a href="http://localhost:63342/SportschoolBenno/SporttipsEnAdviezen.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Sporttips en Adviezen</a>
-        <a href="http://localhost:63342/SportschoolBenno/Aanbod.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Aanbod</a>
-        <a href="http://localhost:63342/SportschoolBenno/Tarieven.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Tarieven</a>
-        <a href="http://localhost:63342/SportschoolBenno/Contactinformatie.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Contact Informatie</a>
+        <a href="http://localhost/SportschoolBenno/Home.html">Home</a>
+        <a href="http://localhost/SportschoolBenno/Sportinzage.html"> Sportinzage</a>
+        <a href="http://localhost/SportschoolBenno/SporttipsEnAdviezen.html">Sporttips en Adviezen</a>
+        <a href="http://localhost/sportschoolBenno/Aanbod.html">Aanbod</a>
+        <a href="http://localhost/sportschoolBenno/Tarieven.html">Tarieven</a>
+        <a href="http://localhost/sportschoolBenno/Contactinformatie.html">Contact Informatie</a>
         <a id="INLOG" href="http://localhost/sportschoolBenno/registreer.php">Registreren</a>
         <a id="INLOG" href="http://localhost/sportschoolBenno/inloggen.php">Inloggen</a>
 
