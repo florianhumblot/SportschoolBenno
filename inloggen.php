@@ -34,26 +34,19 @@ if(isset($_POST['submit'])){
         <a href="http://localhost:63342/SportschoolBenno/Tarieven.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Tarieven</a>
         <a href="http://localhost:63342/SportschoolBenno/Contactinformatie.html?_ijt=p66km7vg5rb0k7r6crgmohm39c">Contact Informatie</a>
         <a id="INLOG" href="http://localhost/sportschoolBenno/registreer.php">Registreren</a>
-        <a id="INLOG" href="http://localhost/sportschoolBenno/inloggen.php">Inloggen</a>
+        <a id="INLOG">Inloggen</a>
 
     </div>
 </header>
 
 <div class="loginform">
   <form method="Post">
-      <input type="text" name = "naam" placeholder = "naam" />
-      <br>
-      <input type="text" name = "adres" placeholder = "adres" />
-      <br>
-      <input type="text" name = "woonplaats" placeholder = "woonplaats" />
-      <br>
-      <input type="text" name = "geslacht" placeholder = "geslacht" />
       <br>
       <input type="text" name = "user" placeholder = "gebruikersnaam" />
       <br>
       <input type="password" name = "password" placeholder = "wachtwoord" />
       <br>
-      <input type="submit" name = "submit" value = "registreer"/ >
+      <input type="submit" name = "submit" value = "log in"/ >
   </form>
 </div>
 </html>
