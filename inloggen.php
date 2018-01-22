@@ -39,6 +39,15 @@ if(isset($_POST['submit'])){
     </div>
 </header>
 
+<body>
+
+<div class="imgage">
+    <h1 class="titel">Sportschool Benno L</h1>
+</div>
+<div class="PageTitel">
+    <h1>Inloggen</h1>
+</div>
+
 <div class="loginform">
   <form method="Post">
       <br>
@@ -49,4 +58,5 @@ if(isset($_POST['submit'])){
       <input type="submit" name = "submit" value = "log in"/ >
   </form>
 </div>
+</body>
 </html>
