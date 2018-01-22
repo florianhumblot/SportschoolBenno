@@ -6,6 +6,7 @@ body{
 .navbar {
     overflow: auto;
     background-color: #333;
+    z-index:1;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -36,6 +37,7 @@ body{
 .titel{
 
     background-color:white;
+    z-index:2;
     background-position: center;
     opacity: 0.75;
     color: black;
@@ -66,4 +68,9 @@ body{
     background-color: white;
     background-position: center;
     margin: auto 302px;
+}
+
+.loginform{
+    margin: 300px auto;
+    width:250px;
 }
